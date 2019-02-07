@@ -12,6 +12,10 @@
     "url": "https://github.com/FashionTrade/babel-preset-ft-react-app/issues"
   },
   "dependencies": {
-    "babel-preset-react-app": "7.0.0"
+    "@babel/plugin-proposal-export-default-from": "7.2.0",
+    "@babel/plugin-proposal-export-namespace-from": "7.2.0",
+    "babel-plugin-styled-components": "1.10.0",
+    "babel-preset-react-app": "7.0.0",
+    "react-hot-loader": "4.6.5"
   }
 }
