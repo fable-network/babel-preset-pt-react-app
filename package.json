@@ -1,0 +1,14 @@
+{
+  "name": "babel-preset-ft-react-app",
+  "version": "0.1.0",
+  "description": "Babel preset used by fashionTrade Create React App",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FashionTrade/babel-preset-ft-react-app.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FashionTrade/babel-preset-ft-react-app/issues"
+  }
+}
