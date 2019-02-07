@@ -10,5 +10,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/FashionTrade/babel-preset-ft-react-app/issues"
+  },
+  "dependencies": {
+    "babel-preset-react-app": "7.0.0"
   }
 }

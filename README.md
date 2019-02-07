@@ -22,6 +22,6 @@ Then create a file named `.babelrc` with following contents in the root folder o
 
 ```js
 {
-  "presets": ["@fashiontrade/babel-preset-ft-react-app"]
+  "presets": ["@fashiontrade/ft-react-app"]
 }
 ```
