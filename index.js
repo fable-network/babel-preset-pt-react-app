@@ -1,3 +1,5 @@
-module.exports = {
-  presets: ["react-app"]
+module.exports = function() {
+  return {
+    presets: ["react-app"]
+  }
 };
