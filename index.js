@@ -1,25 +1,13 @@
 module.exports = function() {
   return {
-    presets: ["react-app"],
-    plugins: [
-      '@babel/plugin-proposal-export-namespace-from',
-      '@babel/plugin-proposal-export-default-from',
-      'babel-plugin-styled-components',
-      'react-hot-loader/babel'
+    presets: [
+      require('babel-preset-react-app')
     ],
-    env: {
-      production: {
-        only: [
-          "src"
-        ]
-      },
-      test: {
-        plugins: [
-          "require-context-hook",
-          "dynamic-import-node",
-          "transform-es2015-modules-commonjs"
-        ]
-      }
-    }
+    plugins: [
+      require('@babel/plugin-proposal-export-namespace-from'),
+      require('@babel/plugin-proposal-export-default-from'),
+      require('babel-plugin-styled-components'),
+      require('react-hot-loader/babel')
+    ]
   }
 };
