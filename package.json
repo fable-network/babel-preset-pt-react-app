@@ -1,6 +1,6 @@
 {
   "name": "@fashiontrade/babel-preset-ft-react-app",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Babel preset used by fashionTrade Create React App",
   "main": "index.js",
   "repository": {
