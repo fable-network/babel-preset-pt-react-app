@@ -15,7 +15,7 @@ First, [install Babel](https://babeljs.io/docs/setup/).
 Then install babel-preset-react-app.
 
 ```sh
-yarn install @fashiontrade/babel-preset-ft-react-app
+yarn add @fashiontrade/babel-preset-ft-react-app
 ```
 
 Then create a file named `.babelrc` with following contents in the root folder of your project:
