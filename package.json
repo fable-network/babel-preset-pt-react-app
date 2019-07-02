@@ -1,15 +1,15 @@
 {
-  "name": "@fashiontrade/babel-preset-ft-react-app",
+  "name": "@passiontrade/babel-preset-pt-react-app",
   "version": "0.1.5",
-  "description": "Babel preset used by fashionTrade Create React App",
+  "description": "Babel preset used by passionTrade Create React App",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FashionTrade/babel-preset-ft-react-app.git"
+    "url": "git+https://github.com/passionTrade/babel-preset-pt-react-app.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FashionTrade/babel-preset-ft-react-app/issues"
+    "url": "https://github.com/passionTrade/babel-preset-pt-react-app/issues"
   },
   "dependencies": {
     "@babel/core": "7.1.6",
